@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on (https://github.com/ondrejholik/springkilometers)[springkilometers]
 - 🌱 I’m currently learning Golang
 
